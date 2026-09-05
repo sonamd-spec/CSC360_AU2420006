@@ -1,22 +1,42 @@
-
 ##Reflection – CSC360 Session on 18 August
+
+
 
 Moving Square in Computer Graphics
 
-In this session, I learned about how a square can be created and moved using computer graphics. The square was used as a simple example to understand how graphical objects work on the screen. I understood that an object has a particular position, and to move it, we need to change that position through the program. This helped me understand that even a simple movement on the screen is controlled by instructions given in the code.
+
+
+I have learned the concepts of moving square in computer graphics through this session. I also gained a great understanding of the way through which the computer graphics work. The square was taken as an example through which I came to know about the working mechanism of the graphical objects on the computer screen. I perceived the idea that each object is positioned at a specific point and is moved by changing its coordinates through a program.
+
+
 
 Coordinate System and Motion
 
-We also learned about the coordinate system and its role in computer graphics. Coordinates are used to decide the position of an object on the screen. When the coordinate values of the square are changed, its position also changes. I found this concept useful because it helped me understand how motion is actually created in a graphical program. The square does not really move by itself; the program keeps changing its position, which makes it look like the square is moving.
+
+
+The topic of the coordinate system was discussed in the session. The main idea about the coordinate system is that it determines the position of the graphical object on the screen. The coordinate values were changed to get the desired position of the square. This concept was very helpful to me as it helped me understand the motion of the graphical objects. According to the coordinate system, a graphic object is not moved from its position; the change in the coordinate results in the change in position on the screen. The change in positions of the square was fascinating to see.
+
+
 
 Java Graphics and Project Structure
 
-Another topic discussed in the session was Java Graphics. I learned that Java can be used to create graphical objects and control their movement. We also discussed the basic structure of a graphics project and how different parts of the program work together. This gave me a better idea of how a graphics application is organized. I understood that creating a graphical program requires more than just drawing a shape; we also need to write the proper code to control and display it.
+
+
+The other concept discussed in the session was Java Graphics. I have learned that Java can be used to create graphics and it can make the manipulation of those graphics quite easy. Java Graphics is actually a method that can help in developing applications. I have also learned the importance of the structure of the graphics project. Through the discussion of the structure, I got an idea about the functioning of the graphics application. I came to know that there is a lot more in developing a graphics application than constructing shapes; the coding part is also required.
+
+
 
 Logic Before Coding
 
-One thing I found important in this session was the idea of understanding the logic before starting to code. Before writing the program, we should first think about what we want the program to do and what steps are required to achieve it. For example, for moving a square, we need to decide its starting position, the direction of movement and how its coordinates should change. Planning these things first can make coding easier and can also reduce errors.
+
+
+I have come to know that logic should be devised before running to code. I have found this concept quite an essential one. This concept says that before writing the code, we should have a clear idea about what we want to do and how we are going to do it. For instance, constructing a moving square needs the direction in which it has to move and the place from where it has to start. This makes the whole process of coding quite easy and also prevents us from several errors.
+
+
 
 Overall Reflection
 
-Overall, this session helped me understand the basic connection between computer graphics and programming. The moving square example made the concepts of coordinates and motion easier for me to understand. I also learned that proper planning and logical thinking are important before writing code. The session gave me a better understanding of how a simple graphical object can be created and controlled using Java.
+
+
+This session helped me develop a clear concept of the relationship between computer graphics and coding. The example of the moving square was very fascinating to me. I have learned the concepts of the coordinate system and motion from this session. I have also learned the logical part of graphics, especially making a graphics project such as a moving square. I have discovered that a lot more goes into the making of a graphics application than people usually think.
+
