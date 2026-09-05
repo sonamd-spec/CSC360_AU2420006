@@ -26,7 +26,7 @@ Planning before coding
 
 
 
-In the 27 August class, Sir mainly discussed our group projects. He explained the different projects that were assigned to the groups, and clarified how to start working on the projects. He did not just explain what the project titles mean, but also discussed the working of the expected programs for each project.
+In the  class, Sir mainly discussed our group projects. He explained the different projects that were assigned to the groups, and clarified how to start working on the projects. He did not just explain what the project titles mean, but also discussed the working of the expected programs for each project.
 
 
 
@@ -258,7 +258,7 @@ Since the project is a group project, we also need to think about dividing the w
 
 
 
-27 August class was mainly focused on understanding our group project and how we can approach it. Sir discussed the different projects that were assigned to the groups, and he explained in detail what we are supposed to develop, and which features our programs should have.
+The class was mainly focused on understanding our group project and how we can approach it. Sir discussed the different projects that were assigned to the groups, and he explained in detail what we are supposed to develop, and which features our programs should have.
 
 
 
