@@ -162,16 +162,14 @@ This was especially useful to understand in the context of GUI programming becau
 
 
 
-This class covered many concepts, and initially some of them seemed unrelated to each other. However, after going through them, I could see how they are connected to software development. The computer graphics part helped me understand how objects and images can be represented, while the tree concept introduced me to a different way of organising information.
+This class dealt with a lot of different topics, and some of them did not seem to be connected to each other at first. Yet, after reviewing them, it becomes clear that they all are somehow related to working with software in general and Java programming language in particular. For example, the computer graphics part taught me the basis of representing different objects and images, and the tree data structure showed me how different items can be organised in a different way.
 
 
 
-The Maven section was also useful because it helped me understand what happens behind the scenes when a Java project is built. I previously paid more attention to the source code, but now I have a better idea about compiled files, dependencies, the pom.xml file and the target folder.
+The Maven section was also interesting to learn since it explained a lot of processes that happen when one writes code in Java. In particular, I got a better understanding of what actually happens when I compile my project, and I think that I now have a better vision of what different types of files written in Java are responsible for. Moreover, the overall Maven infrastructure such as the pom.xml file and target folder now seems less mysterious to me.
 
 
 
-I also found the GUI and accessibility discussion useful because it showed me that programming is not only about making the code work. The application should also be understandable and usable for different people.
+The section on GUI and accessibility was important to me as well, because it taught me that my applications should not only work correctly but also be intuitive and easy to use. Finally, the material on processes, threads, and multithreading gave me a more in-depth insight into how programs work and what exactly happens when I launch them. Thus, in conclusion, I would say that all the topics covered in this class were interesting and very informative. They all somehow are connected to a Java programmer’s daily life and give a better understanding of what goes on behind the scenes.
 
-
-
-Finally, learning about processes, threads and multithreading gave me a basic idea of how programs handle different tasks. Overall, this class helped me understand more about what happens around a Java program, from creating graphics and interfaces to building the project and managing its execution.
+Want a second o
