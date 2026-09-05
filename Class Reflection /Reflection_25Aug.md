@@ -172,4 +172,4 @@ The Maven section was also interesting to learn since it explained a lot of proc
 
 The section on GUI and accessibility was important to me as well, because it taught me that my applications should not only work correctly but also be intuitive and easy to use. Finally, the material on processes, threads, and multithreading gave me a more in-depth insight into how programs work and what exactly happens when I launch them. Thus, in conclusion, I would say that all the topics covered in this class were interesting and very informative. They all somehow are connected to a Java programmer’s daily life and give a better understanding of what goes on behind the scenes.
 
-Want a second o
+
