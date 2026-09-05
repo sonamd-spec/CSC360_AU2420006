@@ -1,4 +1,8 @@
-##Reflection – CSC360 Session on 18 August
+# Class Reflection – 18-08-2026
+
+
+
+## Topics Covered
 
 
 
@@ -6,15 +10,7 @@ Moving Square in Computer Graphics
 
 
 
-I have learned the concepts of moving square in computer graphics through this session. I also gained a great understanding of the way through which the computer graphics work. The square was taken as an example through which I came to know about the working mechanism of the graphical objects on the computer screen. I perceived the idea that each object is positioned at a specific point and is moved by changing its coordinates through a program.
-
-
-
 Coordinate System and Motion
-
-
-
-The topic of the coordinate system was discussed in the session. The main idea about the coordinate system is that it determines the position of the graphical object on the screen. The coordinate values were changed to get the desired position of the square. This concept was very helpful to me as it helped me understand the motion of the graphical objects. According to the coordinate system, a graphic object is not moved from its position; the change in the coordinate results in the change in position on the screen. The change in positions of the square was fascinating to see.
 
 
 
@@ -22,21 +18,76 @@ Java Graphics and Project Structure
 
 
 
-The other concept discussed in the session was Java Graphics. I have learned that Java can be used to create graphics and it can make the manipulation of those graphics quite easy. Java Graphics is actually a method that can help in developing applications. I have also learned the importance of the structure of the graphics project. Through the discussion of the structure, I got an idea about the functioning of the graphics application. I came to know that there is a lot more in developing a graphics application than constructing shapes; the coding part is also required.
-
-
-
 Logic Before Coding
 
 
 
-I have come to know that logic should be devised before running to code. I have found this concept quite an essential one. This concept says that before writing the code, we should have a clear idea about what we want to do and how we are going to do it. For instance, constructing a moving square needs the direction in which it has to move and the place from where it has to start. This makes the whole process of coding quite easy and also prevents us from several errors.
+## Notes
 
 
 
-Overall Reflection
+### Moving Square in Computer Graphics
 
 
 
-This session helped me develop a clear concept of the relationship between computer graphics and coding. The example of the moving square was very fascinating to me. I have learned the concepts of the coordinate system and motion from this session. I have also learned the logical part of graphics, especially making a graphics project such as a moving square. I have discovered that a lot more goes into the making of a graphics application than people usually think.
+I learned in this class how to create the concept of a moving square in computer graphics. It seemed like a simple task at first due to the simplicity of the figure that we were supposed to make move. However, I realized that even for such a simple object as a square, it is necessary to decide where and how to place it before proceeding to actual coding.
 
+
+
+This class taught me the importance of thoroughly considering the characteristics of the graphical objects that we are going to use in a computer graphics program. Even though this is obvious, it is sometimes difficult to immediately realize that aside from being able to draw the objects on the screen, it is also essential to plan their motion and positioning.
+
+
+
+### Coordinate System and Movement
+
+
+
+I learned in this class how to use the coordinate system to place graphical objects in specific positions on the screen. I discovered that the position of any figure or image can be controlled by altering its x and y coordinates. More specifically, the x coordinate is responsible for the left-right placement while the y coordinate is responsible for the up-down placement.
+
+
+
+I also learned how to use these coordinates to make figures move. I realized that if we want the figure to change its position on the screen, we need to update either its x or y coordinate (or both). We then need to repaint the square so that the changes take place. This allowed me to make a connection between coordinates and motion in computer graphics.
+
+
+
+According to what I learned in this class, any figure on the screen has particular x and y coordinates that define its position. This knowledge is essential because it allows us to understand how exactly the computer screen works.
+
+
+
+### Java Graphics and Program Structure
+
+
+
+I also learned a lot about Java graphics during this class. More specifically, I have become more familiar with such concepts as JFrame, packages, Java files, and the structure of the project as a whole.
+
+
+
+I realized that using Java for computer graphics programming requires a lot of attention to detail. A lot of files need to be created for the project, which can be overwhelming at first. However, arranging these files in separate packages helps to organize the project folder so that it is easier to understand the structure of the program.
+
+
+
+In this class, I also learned what pom.xml and target folder are for in a Java project. According to what I learned, the target folder contains all of the files that are generated by Maven, while pom.xml serves as a configuration file for the project. This allowed me to distinguish between files that are actually written by me and files that are automatically generated by the program.
+
+
+
+### Understanding Objects and Static Fields
+
+
+
+I also learned a lot about objects in Java in this class. For example, I realized that objects in Java are created with classes while objects in Java represent instances of classes that have their own fields and methods. Learning this allowed me to understand the structure of Java programs much better.
+
+
+
+I also learned that static fields are fields that belong to a class itself rather than to each individual object. Static fields allowed me to realize how Java makes the distinction between general and specific characteristics of objects.
+
+
+
+### Logic Before Coding
+
+
+
+One of the most important lessons that I learned in this class is that before engaging in coding, we need to think about what exactly we want our program to do. For instance, before trying to make the square from the previous class move from one point to another, we need to understand what steps are required for making this happen.
+
+
+
+For example, according to what I learned in this class, making the square move would require deciding where to initially place it on the screen, what direction it would be moving in, how fast it would be moving (i.e. how much its x and y coordinates would be changing per iteration), and how to repaint it so that the new position is visible. This can all be planned out before writing the code or even sketching the logic of the program, which would significantly simplify the process of writing the code itself.
