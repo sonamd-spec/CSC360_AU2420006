@@ -198,14 +198,21 @@ When two lines meet at a point, that point is called their **intersection point*
 
 # 14. Linux Machine
 
-Linux was also discussed as an operating system that can be used for programming and software development. Some advantages of Linux over Windows mentioned in the session were:
+Linux was also discussed as an operating system that can be used for programming and software development. Some advantages of Linux over Windows discussed in the session included:
 
-* Open source
-* Free to use
-* Good security
-* Customisation
-* Good performance
-* Development-friendly environment
+
+
+Open source
+
+Free to use
+
+Good security
+
+Customisation
+
+Good performance
+
+Development-friendly environment
 
 ---
 
