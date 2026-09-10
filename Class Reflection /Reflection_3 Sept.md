@@ -1,49 +1,72 @@
-Reflection for Session CSC360 on 8 September
+Reflection – CSC360 Essay
 
 
 
-Event and Graphics
+Date: 8 September 2026
 
 
 
-In our previous session, we were taught about events and graphics. I learned that in a graphical application, different actions a user can take can be considered an event. Examples of such actions include; clicking on a button, moving a pointer, or changing the value. Through these illustrations, I understood that graphics can be used to respond to what a user does.
+Introduction
 
 
 
-Event Handling
+In our last class, we discussed various concepts related to graphics and user interaction in Java. The main objective was to understand how a graphical application interacts with a user’s actions. We also became familiar with various interface designing components such as Grid Layout, slider and dialogue box. These concepts have helped me realize that graphics are not just an art of portraying pictures on the screen; rather they are an interactive media tool.
 
 
 
-Additionally, we were able to discuss event handling and what happens when a program responds to a particular event. I learned that an event handler helps determine what a program should do when something happens. For instance, clicking on a button, as mentioned above, can be handled by an event handler. Through this lesson, I was able to understand how we can create interactive applications instead of the basic ones.
+The connection between the events and graphics
 
 
 
-View and Wrapper
+In our first discussion, we addressed how events are tied to graphics. In a graphics application, a user can carry out various actions including clicking, dragging and changing certain values. All these actions in a graphics application are recognized as events. The graphics application can identify these events and take different actions based on the actions the user performs. For instance, a click of a mouse by the user can lead to some changes on the screen. Through this, I realized that graphics applications are not static, but they respond to whatever the user does.
 
 
 
-In our previous session, we also talked about view and wrapper. I learned that while a view deals with viewing, a wrapper is something that can be wrapped. Through this lesson, I was able to understand how different graphical components fit together within a graphical application.
+The idea of event handling
 
 
 
-Grid Layout and Slider
+The other important aspect that we covered in our class was event handling. I discovered that event handling deals with what a graphics application should do in response to various events that may arise during the operation of the application. For instance, if a user decides to click a button on the screen, the graphics application will need to know what action to take once the button has been clicked. This helped me understand that event handling plays a vital role in graphics applications.
 
 
 
-I also enjoyed our discussion about the grid layout and slider. Through this lesson, I was able to understand how we can place different components into rows and columns using a grid layout. Additionally, we were able to explore how a slider helps the user select or indicate a value. I find this control quite interesting since many applications require the user to choose or set a value by sliding it from one side to the other.
+View and wrapper
 
 
 
-Dialogue Box
+In our class, we also covered the view and wrapper concepts. Through the discussion, I discovered that view is a graphics application term that refers to what the user can see on the interface. On the other hand, wrapper refers to a type of object in Java that wraps another object. View and wrapper understanding helped me realize that the user interface (UI) objects need to be organized and arranged so that the whole graphic application can be operated effectively.
 
 
 
-Finally, I also liked our discussion about the dialogue box and its usefulness in a graphical application. I learned that a dialog box is helpful when a program wants to get some information from the user or inform them of something. Instead of doing this on a whole new window, a graphical application can use a dialog box to help the user understand what is happening. Through this lesson, I was able to understand why a dialog box is essential in a graphical application.
+Grid Layout
 
 
 
-Reflection
+Another graphic component that we studied is the Grid Layout. Grid Layout is a graphics application programming tool that helps in placing various UI components in an ordered manner. For instance, it helps in arranging a set of buttons to fill up an entire screen. I realized that Grid Layout makes graphics applications more organized making it easier for the user to operate the application.
 
 
 
-Overall, our session was interesting, and I learned various things about graphical applications. From our discussions, I was able to gain a clear understanding of how we can make applications interactive. Firstly, events and their handlers are essential in a graphical application because they help it respond to what a user does. Secondly, different controls and layouts such as grid layout and slider help, in developing the applications. Lastly, wrapping a component using a wrapper helps it to hold something or contain it. Additionally, our discussion about the dialog box helped me understand how a graphical application communicates with a user effectively.
+Slider
+
+
+
+The Slider component was also an important topic that we covered in our class. A slider is used when an application programmer needs to allow the end-user to move a value from one point to another. The component helped me realize that many applications we use in our daily lives such as media players use sliders to allow users to change specific values. I found this component very interesting because it is the most common UI component.
+
+
+
+Dialogue Box and its use
+
+
+
+The last component that we covered in our class was the Dialogue Box and its use. Dialogue Box is used whenever the end-user needs to receive information from the application or the application requires information from the end-users. For instance, a dialogue box could be used to warn the user before taking an important action. This means that a dialogue box makes the interaction between the application and the user much easier.
+
+
+
+Overall Reflection
+
+
+
+From our last class, I have gained a lot of insight into how a graphics application works. For instance, I have come to realize that various components such as grid layout, slider, and dialogue box are used in making applications to be more organized and interactive. From this lesson, I have come to learn that graphics involve art and science. Initially, I thought graphics were just an art of portraying images on the computer screen. However, this module has helped me understand that graphics are programmable science.
+
+
+
