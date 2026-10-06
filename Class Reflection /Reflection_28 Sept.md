@@ -211,7 +211,7 @@ Understanding the coordinate system of graphics and much more
 
 
 
-## The Final Thoughts
+## The Final Conclusion
 
 
 
