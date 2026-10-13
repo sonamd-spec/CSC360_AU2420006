@@ -1,20 +1,20 @@
 Class Reflection
 
-.Topics Covered
+ Topics Covered
 
-.String Immutability in Java
+ 1) String Immutability in Java
 
-.Binary Data and Binary Objects
+ 2) Binary Data and Binary Objects
 
-.Binary Cracking
+ 3) Binary Cracking
 
-.Badges and Chips in User Interfaces
+ 4) Badges and Chips in User Interfaces
 
-.Images, Shields and GIFs
+ 5) Images, Shields and GIFs
 
-.Layouts and Integer Values
+ 6) Layouts and Integer Values
 
-.Connecting Java Programming with User Interfaces
+ 7) Connecting Java Programming with User Interfaces
 
 1. String Immutability in Java
 
